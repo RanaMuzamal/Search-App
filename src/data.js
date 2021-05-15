@@ -26,7 +26,78 @@ const data = {
             img:img4,
             title:'blog4',
             desc: 'desc4' 
+        },
+        {
+            id:5,
+            img:img1,
+            title:'blog5',
+            desc: 'desc5' 
+        },
+        {
+            id:6,
+            img:img2,
+            title:'blog6',
+            desc: 'desc6' 
+        },
+        {
+            id:7,
+            img:img3,
+            title:'blog7',
+            desc: 'desc7' 
+        }, {
+            id:8,
+            img:img4,
+            title:'blog8',
+            desc: 'desc8' 
+        },
+        
+        {
+            id:9,
+            img:img2,
+            title:'blog9',
+            desc: 'desc9' 
+        },
+        {
+            id:10,
+            img:img1,
+            title:'blog10',
+            desc: 'desc10' 
+        },
+        {
+            id:11,
+            img:img3,
+            title:'blog11',
+            desc: 'desc11' 
+        }, {
+            id:12,
+            img:img4,
+            title:'blog12',
+            desc: 'desc12' 
+        },{
+            id:13,
+            img:img1,
+            title:'blog13',
+            desc: 'desc113' 
+        },
+        {
+            id:14,
+            img:img2,
+            title:'blog14',
+            desc: 'desc14' 
+        },
+        {
+            id:15,
+            img:img3,
+            title:'blog15',
+            desc: 'desc15' 
+        }, {
+            id:16,
+            img:img4,
+            title:'blog16',
+            desc: 'desc16' 
         }
+       
+       
        
 
     ]
